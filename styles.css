@@ -1,0 +1,17 @@
+.centerHorizontally
+{
+    text-align: center;
+}
+
+.testing
+{
+    position: absolute;
+    width: calc(1235px/3);
+    object-fit: cover;
+    object-position: 50% 50%;
+    z-index: -1;
+    filter: brightness(80%);
+    border-color: white;
+    border-style: solid;
+    border-width: 0px 0px 0px 2px;
+}
